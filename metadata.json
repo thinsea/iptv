@@ -1,0 +1,5 @@
+{
+  "name": "Durak Card Game",
+  "description": "A classic Russian card game played with a 52-card deck. Challenge the AI and avoid being the 'Durak'!",
+  "requestFramePermissions": []
+}
